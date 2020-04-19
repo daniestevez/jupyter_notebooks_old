@@ -97,7 +97,7 @@
     </param>
     <param>
       <key>value</key>
-      <value>108</value>
+      <value>65</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -253,7 +253,7 @@
     </param>
     <param>
       <key>value</key>
-      <value>10</value>
+      <value>1</value>
     </param>
   </block>
   <block>
@@ -280,7 +280,7 @@
     </param>
     <param>
       <key>value</key>
-      <value>300000</value>
+      <value>600000</value>
     </param>
   </block>
   <block>
@@ -593,7 +593,7 @@
     </param>
     <param>
       <key>ipaddr</key>
-      <value>239.255.0.0</value>
+      <value>0.0.0.0</value>
     </param>
     <param>
       <key>maxoutbuf</key>
@@ -683,7 +683,7 @@
     </param>
     <param>
       <key>center_freq</key>
-      <value>800e3 - 675e3 + f_tune</value>
+      <value>f_tune</value>
     </param>
     <param>
       <key>comment</key>
@@ -695,7 +695,7 @@
     </param>
     <param>
       <key>decim</key>
-      <value>150</value>
+      <value>300</value>
     </param>
     <param>
       <key>_enabled</key>
